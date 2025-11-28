@@ -1,6 +1,6 @@
-# ECCO Dataset
+# DisECCO Dataset
 
-**Ecological, Cultural, and Climatic Origins (ECCO) Dataset**
+**Disease, Ecological, Cultural, and Climatic Origins (DisECCO) Dataset**
 
 This repository contains five supplementary datasets (S1–S5) accompanying the study:
 
