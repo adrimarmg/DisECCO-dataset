@@ -26,7 +26,7 @@ Each file corresponds to a distinct predictor potentially influencing the emerge
 
 If you use this dataset, please cite:
 
-> Morales A. *et al.* (2025). *Drivers of immune-related genetic variation across human populations* GitHub repository: [https://github.com/adrimarmg/ECCO-dataset](https://github.com/adrimarmg/ECCO-dataset). DOI: *[Zenodo DOI will appear here once archived]*.
+> Morales A. *et al.* (2025). *Drivers of immune-related genetic variation across human populations* GitHub repository: [https://github.com/adrimarmg/DisECCO-dataset](https://github.com/adrimarmg/DisECCO-dataset). DOI: *[Zenodo DOI will appear here once archived]*.
 
 ---
 
