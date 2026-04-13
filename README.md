@@ -2,7 +2,7 @@
 
 **Disease, Ecological, Cultural, and Climatic Origins (DisECCO) Dataset**
 
-This repository contains five supplementary datasets (S1–S5) accompanying the study:
+This repository contains six supplementary datasets (S1–S6) accompanying the study:
 
 > *Drivers of immune-related genetic variation across human populations*
 
@@ -14,11 +14,12 @@ Each file corresponds to a distinct predictor potentially influencing the emerge
 
 | File | Description |
 |------|--------------|
-| **DatasetS1.xlsx** | Area under the curve (AUC) of sociopolitical complexity trajectories across the 54 HGDP populations. |
-| **DatasetS2.xlsx** | Ages of the onset of the Neolithic revolution and urbanization across the 54 HGDP populations. |
-| **DatasetS3.xlsx** | Ages of the oldest domestication events across the 54 HGDP populations. |
-| **DatasetS4.xlsx** | Pre-industrial pathogen stress across the 54 HGDP populations. |
-| **DatasetS5.xlsx** | Comprehensive set of historical, cultural, ecological, and climatic predictors compiled to explain variation in immune-related genomic signatures across the 54 HGDP populations.  |
+| **DatasetS1.xlsx** | PCA-derived climatic variables across temporal slices for HGDP populations. |
+| **DatasetS2.xlsx** | Area under the curve (AUC) of sociopolitical complexity trajectories across the 54 HGDP populations. |
+| **DatasetS3.xlsx** | Ages of the onset of the Neolithic revolution and urbanization across the 54 HGDP populations. |
+| **DatasetS4.xlsx** | Ages of the oldest domestication events across the 54 HGDP populations. |
+| **DatasetS5.xlsx** | Pre-industrial pathogen stress across the 54 HGDP populations. |
+| **DatasetS6.xlsx** | (DisECCO) Dataset: Comprehensive set of historical, cultural, ecological, and climatic predictors compiled to explain variation in immune-related genomic signatures across the 54 HGDP populations.  |
 
 ---
 
@@ -26,7 +27,7 @@ Each file corresponds to a distinct predictor potentially influencing the emerge
 
 If you use this dataset, please cite:
 
-> Morales A. *et al.* (2025). *Drivers of immune-related genetic variation across human populations* GitHub repository: [https://github.com/adrimarmg/DisECCO-dataset](https://github.com/adrimarmg/DisECCO-dataset). DOI: *[Zenodo DOI will appear here once archived]*.
+> Morales A. *et al.* (2026). *Drivers of immune-related genetic variation across human populations* GitHub repository: [https://github.com/adrimarmg/DisECCO-dataset](https://github.com/adrimarmg/DisECCO-dataset). DOI: *[Zenodo DOI will appear here once archived]*.
 
 ---
 
