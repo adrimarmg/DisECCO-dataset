@@ -17,7 +17,7 @@ Each file corresponds to a distinct predictor potentially influencing the emerge
 | **DatasetS1.xlsx** | Ages of the onset of the Neolithic revolution and urbanization across the 54 HGDP populations. |
 | **DatasetS2.xlsx** | PCA-derived climatic variables across temporal slices for HGDP populations. |
 | **DatasetS3.xlsx** | Area under the curve (AUC) of sociopolitical complexity trajectories across the 54 HGDP populations. |
-| **DatasetS4.xlsx** | Ages of the oldest domestication events across the 54 HGDP populations. |
+| **DatasetS4.xlsx** | Exposure to domesticated species through time across the 54 HGDP populations. |
 | **DatasetS5.xlsx** | Pre-industrial pathogen stress across the 54 HGDP populations. |
 | **DatasetS6.xlsx** | (DisECCO) Dataset: Comprehensive set of historical, cultural, ecological, and climatic predictors compiled to explain variation in immune-related genomic signatures across the 54 HGDP populations.  |
 
